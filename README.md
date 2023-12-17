@@ -9,38 +9,6 @@ Algo-trading was 😵‍💫, we made it 🤩
 </p>
 </div>
 
-  <title>Download</title>
-  <style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      background-color: #f0f0f0;
-    }
-
-    .download-button {
-      background-color: #ff0000;
-      color: #ffffff;
-      font-size: 20px;
-      padding: 15px 30px;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-      text-decoration: none;
-      display: inline-block;
-    }
-
-    .download-button:hover {
-      background-color: #cc0000;
-    }
-  </style>
-</head>
-<body>
-
-<a href="[your-download-link](https://e7.pngegg.com/pngimages/180/929/png-clipart-brand-logo-product-design-label-button-label-text.png)" class="download" download>Download</a>
-
 ---
 
 Jesse is an advanced crypto trading framework that aims to **simplify** **researching** and defining **YOUR OWN trading strategies**.
