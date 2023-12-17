@@ -9,12 +9,37 @@ Algo-trading was 😵‍💫, we made it 🤩
 </p>
 </div>
 
-# Jesse
-[![PyPI](https://img.shields.io/pypi/v/jesse)](https://pypi.org/project/jesse)
-[![Downloads](https://pepy.tech/badge/jesse)](https://pepy.tech/project/jesse)
-[![Docker Pulls](https://img.shields.io/docker/pulls/salehmir/jesse)](https://hub.docker.com/r/salehmir/jesse)
-[![GitHub](https://img.shields.io/github/license/jesse-ai/jesse)](https://github.com/jesse-ai/jesse)
-[![coverage](https://codecov.io/gh/jesse-ai/jesse/graph/badge.svg)](https://codecov.io/gh/jesse-ai/jesse)
+  <title>Download</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .download-button {
+      background-color: #ff0000;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 15px 30px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    .download-button:hover {
+      background-color: #cc0000;
+    }
+  </style>
+</head>
+<body>
+
+<a href="[your-download-link](https://e7.pngegg.com/pngimages/180/929/png-clipart-brand-logo-product-design-label-button-label-text.png)" class="download" download>Download</a>
 
 ---
 
@@ -74,15 +99,6 @@ In that case, here's what you need to know:
 
 First, you need to install Jesse from the repository instead of PyPi:
 
-```sh
-# first, make sure that the PyPi version is not installed
-pip uninstall jesse
-
-# now install Jesse from the repository
-git clone https://github.com/jesse-ai/jesse.git
-cd jesse
-pip install -e .
-```
 
 Now every change you make to the code will be affected immediately.
 
