@@ -1,15 +1,22 @@
 <div align="center">
-<br>
-<p align="center">
-<img src="assets/jesse-logo.png" alt="Jesse" height="72" />
-</p>
+  <br>
+  <p align="center">
+    <img src="assets/jesse-logo.png" alt="Jesse" height="72" />
+  </p>
 
-<p align="center">
-Algo-trading was 😵‍💫, we made it 🤩
-</p>
+  <p align="center">
+    Algo-trading was 😵‍💫, we made it 🤩
+  </p>
+
+  <a href="" download>
+    <p align="center">
+      <strong style="font-size: 24px; color: #ff0000;">Download Jesse</strong>
+    </p>
+  </a>
 </div>
 
 ---
+
 
 Jesse is an advanced crypto trading framework that aims to **simplify** **researching** and defining **YOUR OWN trading strategies**.
 
